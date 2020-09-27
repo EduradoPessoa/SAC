@@ -1,0 +1,17 @@
+.navbar a:hover{
+    color:#244181;
+}
+
+.nav{
+    background-color: #f6f6f6 !important;
+}
+
+.nav a{
+    color: #071e51;
+    font-size:18px;
+}
+
+.nav .active{
+    background-color: #FF0003 !important;
+    font-weight: 600;
+}
